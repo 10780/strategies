@@ -12,6 +12,7 @@ def main():
                   "Collaborate, alternate contributing elements",
                   "No editing"
                   ]
+
     print("- Constraint challenge -\n")
     input("Press any key to continue\n")
     print("Your constraint: ")
