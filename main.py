@@ -1,4 +1,4 @@
-import random, os
+import random
 
 def main():
     random.seed()
