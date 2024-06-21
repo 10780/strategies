@@ -2,7 +2,7 @@ import random
 
 def main():
     random.seed()
-    val = random.randint(0,9)
+    val = random.randint(0,14)
 
     f = open("strategies.txt", "r")
 
